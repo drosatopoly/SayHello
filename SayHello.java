@@ -7,5 +7,6 @@ public class SayHello{
         //Add a greeting statement from yourself!
         System.out.println("Hello from Gavin Cho");
         System.out.println("Hello from Asher Singla");
+        System.out.println("Hello from Dario Soatto");
     }
 }
