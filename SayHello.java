@@ -9,14 +9,10 @@ public class SayHello{
         System.out.println("hello from esteban");
         System.out.println("Hello from Gavin Cho");
         System.out.println("Hello from Asher Singla");
-<<<<<<< HEAD
         System.out.println("Hello from Dario Soatto");
         System.out.println("Hello from Michael Munder");
         System.out.println("Hello from Junaid Bhatti");
-
-=======
         System.out.println("Hello from Phoebe Salvati");
->>>>>>> c471eb019a38bb5290b3f4778939c6848b96b307
 
     }
 }
