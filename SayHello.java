@@ -14,5 +14,7 @@ public class SayHello{
         System.out.println("Hello from Junaid Bhatti");
         System.out.println("Hello from Phoebe Salvati");
         System.out.println("Hello from Kate Lim");
+        System.out.println("Hello from James Miller");
+        
     }
 }
