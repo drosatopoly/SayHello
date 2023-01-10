@@ -1,1 +1,1 @@
-# SayHello
+This is a tester repository meant for showcasing how GitHub can be used for collaborative purposes! Edit the SayHello program to include your name in the greeting!
