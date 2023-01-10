@@ -15,7 +15,7 @@ public class SayHello{
         System.out.println("Hello from Phoebe Salvati");
         System.out.println("Hello from Kate Lim");
         System.out.println("Hello from James Miller");
-<<<<<<< HEAD
+
 
 
 
@@ -28,9 +28,9 @@ public class SayHello{
         
         
         System.out.println("Hello from Ollie Molz");
-=======
-        System.out.println("Hellow from Daniel Zheng");
->>>>>>> f17d2e2 (changed by Daniel Zheng)
+
+        System.out.println("Hello from Daniel Zheng");
+
         
     }
 }
