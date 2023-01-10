@@ -13,6 +13,6 @@ public class SayHello{
         System.out.println("Hello from Michael Munder");
         System.out.println("Hello from Junaid Bhatti");
         System.out.println("Hello from Phoebe Salvati");
-
+        System.out.println("Hello from Kate Lim");
     }
 }
